@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "tier-1-homework-3"
+version = "0.1.0"
+description = "A bot assistant to manage a personal list of contacts"
+authors = ["Matajur <126118653+Matajur@users.noreply.github.com>"]
+license = "Apache License 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
